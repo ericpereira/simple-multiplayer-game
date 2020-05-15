@@ -1,5 +1,5 @@
-# jogo-1
-Primeira implementação do joguinho, vamos ver no que dá
+# Jogo simples multiplayer
+Primeira implementação do jogo em html5 para testar conceitos de nodejs e socket.io
 
 #Conceitos importantes<br>
 design pattern<br>
