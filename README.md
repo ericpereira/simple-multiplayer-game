@@ -15,8 +15,8 @@ Socket.io<br>
 
 
 #Comandos
-npx serve - rodar servidor dentro da pasta
-npm init - transformar a pasta em um repositório node
-npm install - para instalar dependencias
-nvm install node - atualizar versão do nodejs para uma que aceite ecmascript
-npx nodemon - para não precisar ficar reiniciando o servidor a cada alteração no arquivo, tira o arquivo que deve rodar do package.json
+npx serve - rodar servidor dentro da pasta<br>
+npm init - transformar a pasta em um repositório node<br>
+npm install - para instalar dependencias<br>
+nvm install node - atualizar versão do nodejs para uma que aceite ecmascript<br>
+npx nodemon - para não precisar ficar reiniciando o servidor a cada alteração no arquivo, tira o arquivo que deve rodar do package.json<br>
